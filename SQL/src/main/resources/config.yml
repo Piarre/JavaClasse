@@ -1,0 +1,4 @@
+database:
+    url: jdbc:mysql://localhost:3306/lemoine
+    username: root
+    password: IDP34+1
